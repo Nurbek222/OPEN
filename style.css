@@ -76,3 +76,17 @@
     color: rgb(41, 39, 39);
     font-weight: bold;
 }
+.section_1{
+    display: flex;
+}
+
+.creator{
+    display: flex;
+}
+
+.instant_price{
+    display: flex;
+}
+.icon{
+    background-color: green;
+}
